@@ -1,0 +1,15 @@
+C:\Users\RUSCOREM09\Documents\cursoC#\Proy01\bin\Debug\net7.0\Proy01.exe
+C:\Users\RUSCOREM09\Documents\cursoC#\Proy01\bin\Debug\net7.0\Proy01.deps.json
+C:\Users\RUSCOREM09\Documents\cursoC#\Proy01\bin\Debug\net7.0\Proy01.runtimeconfig.json
+C:\Users\RUSCOREM09\Documents\cursoC#\Proy01\bin\Debug\net7.0\Proy01.dll
+C:\Users\RUSCOREM09\Documents\cursoC#\Proy01\bin\Debug\net7.0\Proy01.pdb
+C:\Users\RUSCOREM09\Documents\cursoC#\Proy01\obj\Debug\net7.0\Proy01.csproj.AssemblyReference.cache
+C:\Users\RUSCOREM09\Documents\cursoC#\Proy01\obj\Debug\net7.0\Proy01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RUSCOREM09\Documents\cursoC#\Proy01\obj\Debug\net7.0\Proy01.AssemblyInfoInputs.cache
+C:\Users\RUSCOREM09\Documents\cursoC#\Proy01\obj\Debug\net7.0\Proy01.AssemblyInfo.cs
+C:\Users\RUSCOREM09\Documents\cursoC#\Proy01\obj\Debug\net7.0\Proy01.csproj.CoreCompileInputs.cache
+C:\Users\RUSCOREM09\Documents\cursoC#\Proy01\obj\Debug\net7.0\Proy01.dll
+C:\Users\RUSCOREM09\Documents\cursoC#\Proy01\obj\Debug\net7.0\refint\Proy01.dll
+C:\Users\RUSCOREM09\Documents\cursoC#\Proy01\obj\Debug\net7.0\Proy01.pdb
+C:\Users\RUSCOREM09\Documents\cursoC#\Proy01\obj\Debug\net7.0\Proy01.genruntimeconfig.cache
+C:\Users\RUSCOREM09\Documents\cursoC#\Proy01\obj\Debug\net7.0\ref\Proy01.dll
